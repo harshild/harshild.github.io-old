@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1935" height="412" viewBox="0 0 1935 412">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 125px;
+        font-family: "DIN Alternate";
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <rect id="H-Left" class="cls-1" y="2" width="80" height="410" rx="20" ry="20"/>
+  <rect id="H-Right_copy" data-name="H-Right copy" class="cls-1" x="308" width="80" height="280" rx="20" ry="20"/>
+  <rect id="H-Middle" class="cls-1" x="63" y="150" width="179" height="80" rx="20" ry="20"/>
+  <rect id="D-Top" class="cls-1" x="355" width="179" height="80" rx="20" ry="20"/>
+  <rect id="D-Bottom" class="cls-1" x="308" y="332" width="226" height="80" rx="20" ry="20"/>
+  <rect id="D-Curve_copy_2" data-name="D-Curve copy 2" class="cls-1" x="501" width="80" height="415" rx="20" ry="20"/>
+  <rect id="Divider" class="cls-1" x="831" y="57" width="2" height="301"/>
+  <text id="full_name" data-name="full name" class="cls-2" x="918.368" y="228.852">harshil dhariwal</text>
+</svg>
